@@ -1,4 +1,29 @@
-<h2 align="left">Hi, I'm Ali Rajabpour Sanati, a passionate, Self-taught Full-stack Developer</h2>
+# Dr. Ali Rajabpour Sanati
+
+> Medical Doctor | Researcher | Data Scientist | Tech Enthusiast
+
+## Categories
+
+<div align="center">
+  <a href="#lifehacks--side-projects">
+    <img src="https://img.shields.io/badge/Lifehacks%20%26%20Side%20Projects-0D1117?style=for-the-badge" alt="Lifehacks & Side Projects" />
+  </a>
+  <a href="#freelance-projects">
+    <img src="https://img.shields.io/badge/Freelance%20Projects-0D1117?style=for-the-badge" alt="Freelance Projects" />
+  </a>
+  <a href="#trading-stocks--finance">
+    <img src="https://img.shields.io/badge/Trading%2C%20Stocks%20%26%20Finance-0D1117?style=for-the-badge" alt="Trading, Stocks & Finance" />
+  </a>
+  <a href="#medical-research">
+    <img src="https://img.shields.io/badge/Medical%20Research-0D1117?style=for-the-badge" alt="Medical Research" />
+  </a>
+</div>
+
+## About Me
+
+<div align="left">
+  <p>Medical doctor, researcher, data scientist and advanced tech enthusiast with a passion for innovative solutions at the intersection of healthcare and technology.</p>
+</div>
 
 ###
 
@@ -21,8 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
@@ -147,4 +170,18 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### Lifehacks & Side Projects
+
+*Projects focusing on improving everyday life and interesting side endeavors.*
+
+### Freelance Projects
+
+*Professional work completed for clients.*
+
+### Trading, Stocks & Finance
+
+*Projects related to financial markets, trading algorithms, and investment tools.*
+
+### Medical Research
+
+*Scientific contributions and research projects in the medical field.*
