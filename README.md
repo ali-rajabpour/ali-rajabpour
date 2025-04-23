@@ -13,28 +13,39 @@
 ## Categories
 
 <div align="center">
-  <a href="#lifehacks--side-projects">
-    <img src="https://img.shields.io/badge/Lifehacks%20%26%20Side%20Projects-222222?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Lifehacks & Side Projects" width="280" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#freelance-projects">
-    <img src="https://img.shields.io/badge/Freelance%20Projects-222222?style=for-the-badge&logo=briefcase&logoColor=white" alt="Freelance Projects" width="280" />
-  </a>
-  <br><br>
-  <a href="#trading-stocks--finance">
-    <img src="https://img.shields.io/badge/Trading%2C%20Stocks%20%26%20Finance-222222?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Trading, Stocks & Finance" width="280" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#medical-research">
-    <img src="https://img.shields.io/badge/Medical%20Research-222222?style=for-the-badge&logo=microscope&logoColor=white" alt="Medical Research" width="280" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="380">
+        <a href="#lifehacks--side-projects">
+          <img src="https://img.shields.io/badge/LIFEHACKS%20%26%20SIDE%20PROJECTS-222222?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Lifehacks & Side Projects" width="380" height="50" />
+        </a>
+      </td>
+      <td align="center" width="380">
+        <a href="#freelance-projects">
+          <img src="https://img.shields.io/badge/FREELANCE%20PROJECTS-222222?style=for-the-badge&logo=briefcase&logoColor=white" alt="Freelance Projects" width="380" height="50" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="380">
+        <a href="#trading-stocks--finance">
+          <img src="https://img.shields.io/badge/TRADING%2C%20STOCKS%20%26%20FINANCE-222222?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Trading, Stocks & Finance" width="380" height="50" />
+        </a>
+      </td>
+      <td align="center" width="380">
+        <a href="#medical-research">
+          <img src="https://img.shields.io/badge/MEDICAL%20RESEARCH-222222?style=for-the-badge&logo=microscope&logoColor=white" alt="Medical Research" width="380" height="50" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-rajabpour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-rajabpour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-rajabpour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-rajabpour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ## Tech Stack
@@ -160,27 +171,23 @@
 ## Connect With Me
 
 <div align="center">
-  <a href="https://instagram.com/">
+  <a href="https://www.instagram.com/ali.poursanati/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:ali.poursanati@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/alirajabpour/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://t.me/">
+  <a href="https://t.me/ali_rps">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo" />
   </a>
-  <a href="https://twitter.com/">
+  <a href="https://twitter.com/A_Rajabpour">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo" />
+  </a>
+  <a href="https://Rajabpour.com">
+    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" width="47" height="35" alt="website" />
   </a>
 </div>
 
-### Lifehacks & Side Projects
-
-### Freelance Projects
-
-### Trading, Stocks & Finance
-
-### Medical Research
