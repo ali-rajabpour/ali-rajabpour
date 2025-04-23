@@ -1,22 +1,7 @@
-# Dr. Ali Rajabpour Sanati
-
-> Medical Doctor | Researcher | Data Scientist | Tech Enthusiast
-
-## Categories
+# <div align="center">Dr. Ali Rajabpour Sanati</div>
 
 <div align="center">
-  <a href="#lifehacks--side-projects">
-    <img src="https://img.shields.io/badge/Lifehacks%20%26%20Side%20Projects-0D1117?style=for-the-badge" alt="Lifehacks & Side Projects" />
-  </a>
-  <a href="#freelance-projects">
-    <img src="https://img.shields.io/badge/Freelance%20Projects-0D1117?style=for-the-badge" alt="Freelance Projects" />
-  </a>
-  <a href="#trading-stocks--finance">
-    <img src="https://img.shields.io/badge/Trading%2C%20Stocks%20%26%20Finance-0D1117?style=for-the-badge" alt="Trading, Stocks & Finance" />
-  </a>
-  <a href="#medical-research">
-    <img src="https://img.shields.io/badge/Medical%20Research-0D1117?style=for-the-badge" alt="Medical Research" />
-  </a>
+  <strong>Medical Doctor | Researcher | Data Scientist | Tech Enthusiast</strong>
 </div>
 
 ## About Me
@@ -25,14 +10,34 @@
   <p>Medical doctor, researcher, data scientist and advanced tech enthusiast with a passion for innovative solutions at the intersection of healthcare and technology.</p>
 </div>
 
-###
+## Categories
+
+<div align="center">
+  <a href="#lifehacks--side-projects">
+    <img src="https://img.shields.io/badge/Lifehacks%20%26%20Side%20Projects-222222?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Lifehacks & Side Projects" width="280" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#freelance-projects">
+    <img src="https://img.shields.io/badge/Freelance%20Projects-222222?style=for-the-badge&logo=briefcase&logoColor=white" alt="Freelance Projects" width="280" />
+  </a>
+  <br><br>
+  <a href="#trading-stocks--finance">
+    <img src="https://img.shields.io/badge/Trading%2C%20Stocks%20%26%20Finance-222222?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Trading, Stocks & Finance" width="280" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#medical-research">
+    <img src="https://img.shields.io/badge/Medical%20Research-222222?style=for-the-badge&logo=microscope&logoColor=white" alt="Medical Research" width="280" />
+  </a>
+</div>
+
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ali-rajabpour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-rajabpour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+## Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -152,36 +157,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
 
-###
+## Connect With Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  <a href="https://instagram.com/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://linkedin.com/in/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://t.me/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo" />
+  </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/output/pacman-contribution-graph.svg">
-</picture>
 
 ### Lifehacks & Side Projects
 
-*Projects focusing on improving everyday life and interesting side endeavors.*
-
 ### Freelance Projects
-
-*Professional work completed for clients.*
 
 ### Trading, Stocks & Finance
 
-*Projects related to financial markets, trading algorithms, and investment tools.*
-
 ### Medical Research
-
-*Scientific contributions and research projects in the medical field.*
