@@ -60,7 +60,7 @@
 
 ## Tech Stack
 <div align="left">
-<h3> Programming and Markup Languages:</h3>
+<h4><i> Programming and Markup Languages:</i></h4>
 </div>
 <div align="center">
 
