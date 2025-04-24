@@ -136,22 +136,22 @@
 ## Connect With Me
 
 <div align="center">
-  <a href="https://www.instagram.com/ali.poursanati/">
-    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/instagram.svg" width="47" height="35" alt="instagram logo" />
+  <a href="https://Rajabpour.com">
+    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/website.svg" width="47" height="35" alt="website" />
+  </a>
+  <a href="https://www.linkedin.com/in/alirajabpour/">
+    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/linkedin.svg" width="47" height="35" alt="linkedin logo" />
   </a>
   <a href="mailto:ali.poursanati@gmail.com">
     <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/gmail.svg" width="47" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/alirajabpour/">
-    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/linkedin.svg" width="47" height="35" alt="linkedin logo" />
+  <a href="https://www.instagram.com/ali.poursanati/">
+    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/instagram.svg" width="47" height="35" alt="instagram logo" />
   </a>
   <a href="https://t.me/ali_rps">
     <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/telegram.svg" width="47" height="35" alt="telegram logo" />
   </a>
   <a href="https://twitter.com/A_Rajabpour">
-    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/x.svg" width="47" height="35" alt="twitter logo" />
-  </a>
-  <a href="https://Rajabpour.com">
-    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/website.svg" width="47" height="35" alt="website" />
+    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/x_icon.svg" width="47" height="35" alt="twitter logo" />
   </a>
 </div>
