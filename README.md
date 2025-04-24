@@ -70,38 +70,62 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/CSS3-%23663399?style=for-the-badge&logo=CSS3&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=Anaconda&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=Arduino&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextjs&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodejs&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Solidity-%23363636?style=for-the-badge&logo=solidity&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuejs&logoColor=%23ffffff)
+
+</div>
+
+<div align="left">
+<h4><em>Frameworks and Libraries</em></h4>
+</div>
+<div align="center">
+
+![Static Badge](https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=%23ffffff)
+
+</div>
+
+<div align="left">
+<h4><em>Databases and Cloud</em></h4>
+</div>
+<div align="center">
+
 ![Static Badge](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=Amazon&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Apache-%23D22128?style=for-the-badge&logo=Apache&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Kafka-%23231F20?style=for-the-badge&logo=ApacheKafka&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=Arduino&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Sqlite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=%23ffffff)
+
+</div>
+
+<div align="left">
+<h4><em>Software and Tools</em></h4>
+</div>
+<div align="center">
+
 ![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=Debian&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Moodle-%23F98012?style=for-the-badge&logo=moodle&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextjs&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodejs&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=Anaconda&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Photoshop-%234285F4?style=for-the-badge&logo=photoshop&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Solidity-%23363636?style=for-the-badge&logo=solidity&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/IBM%20Spss-%233D7EBB?style=for-the-badge&logo=spss&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Sqlite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuejs&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Woocommerce-%2396588A?style=for-the-badge&logo=woocommerce&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Moodle-%23F98012?style=for-the-badge&logo=moodle&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/IBM%20Spss-%233D7EBB?style=for-the-badge&logo=spss&logoColor=%23ffffff)
 
 </div>
 
