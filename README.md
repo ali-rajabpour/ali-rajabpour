@@ -13,7 +13,7 @@
 ## Repos Categories
 
 <details>
-<summary>### 🌱 Lifehacks · Side Projects</summary>
+<summary> 🌱 Lifehacks · Side Projects</summary>
 <p>TEST</p>
 </details>
 
