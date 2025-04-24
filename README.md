@@ -16,34 +16,21 @@
 <summary>Lifehacks & Side Projects</summary>
 <p>TEST</p>
 </details>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="380">
-        <a href="#lifehacks--side-projects">
-          <img src="https://img.shields.io/badge/LIFEHACKS%20%26%20SIDE%20PROJECTS-222222?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Lifehacks & Side Projects" width="380" height="50" />
-        </a>
-      </td>
-      <td align="center" width="380">
-        <a href="#freelance-projects">
-          <img src="https://img.shields.io/badge/FREELANCE%20PROJECTS-222222?style=for-the-badge&logo=briefcase&logoColor=white" alt="Freelance Projects" width="380" height="50" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="380">
-        <a href="#trading-stocks--finance">
-          <img src="https://img.shields.io/badge/TRADING%2C%20STOCKS%20%26%20FINANCE-222222?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Trading, Stocks & Finance" width="380" height="50" />
-        </a>
-      </td>
-      <td align="center" width="380">
-        <a href="#medical-research">
-          <img src="https://img.shields.io/badge/MEDICAL%20RESEARCH-222222?style=for-the-badge&logo=microscope&logoColor=white" alt="Medical Research" width="380" height="50" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
+<details>
+<summary>Freelance Projects</summary>
+<p>TEST</p>
+</details>
+
+<details>
+<summary>Trading, Stocks & Finance</summary>
+<p>TEST</p>
+</details>
+
+<details>
+<summary>Medical Research</summary>
+<p>TEST</p>
+</details>
 
 ## GitHub Stats
 
