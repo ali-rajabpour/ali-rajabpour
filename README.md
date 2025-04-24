@@ -19,10 +19,10 @@
 <p>- <a href="https://github.com/ali-rajabpour/NameMimicker">NameMimicker</a> | A Python tool for generating Unicode lookalike strings with advanced obfuscation techniques for security research and homoglyph analysis</p>
 <p>- <a href="https://github.com/ali-rajabpour/Twitter-Automation">Twitter-Automation</a> | </p>
 <p>- <a href="https://github.com/ali-rajabpour/Instagram-Automation">Instagram-Automation</a> | </p>
-<p>- <a href="https://github.com/ali-rajabpour/persian-google-calendar">persian-google-calendar</a> | </p>
-<p>- <a href="https://github.com/ali-rajabpour/s-ui-frontend">s-ui-frontend</a> | </p>
-<p>- <a href="https://github.com/ali-rajabpour/s-ui">s-ui</a> | </p>
-<p>- <a href="https://github.com/ali-rajabpour/Automated-Traffic-Tickets-Device">Automated-Traffic-Tickets-Device</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/persian-google-calendar">persian-google-calendar</a> | A web application that allows users to view and manage their Google Calendar events using a Persian/Jalali calendar interface</p>
+<p>- <a href="https://github.com/ali-rajabpour/s-ui-frontend">s-ui-frontend</a> | Frontend for s-ui</p>
+<p>- <a href="https://github.com/ali-rajabpour/s-ui">s-ui</a> | An advanced Web Panel • Built for SagerNet/Sing-Box</p>
+<p>- <a href="https://github.com/ali-rajabpour/Automated-Traffic-Tickets-Device">Automated-Traffic-Tickets-Device</a> | Automated recognition, registration and uploading of traffic tickets device</p>
 <p>- <a href="https://github.com/ali-rajabpour/CIDR-to-IP-List">CIDR-to-IP-List</a> | </p>
 </details>
 
@@ -39,14 +39,14 @@
 <details>
 <summary><h3> 📈 Trading · Stocks · Finance </h3></summary>
 <p>- <a href="https://github.com/ali-rajabpour/Phoenix">Phoenix</a> | </p>
-<p>- <a href="https://github.com/ali-rajabpour/Leverage_PosSize_RR_TelegramBot">Leverage_PosSize_RR_TelegramBot</a> | </p>
-<p>- <a href="https://github.com/ali-rajabpour/Leverage-Position-Size-and-RR">Leverage-Position-Size-and-RR</a> | </p>
-<p>- <a href="https://github.com/ali-rajabpour/TradingView-Webhook-Bot">TradingView-Webhook-Bot</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/Leverage_PosSize_RR_TelegramBot">Leverage_PosSize_RR_TelegramBot</a> | Telegram Bot for Calculating leverage, position size and RR based on user inputs</p>
+<p>- <a href="https://github.com/ali-rajabpour/Leverage-Position-Size-and-RR">Leverage-Position-Size-and-RR</a> | Script to calculate leverage, position size and RR based on the user inputs</p>
+<p>- <a href="https://github.com/ali-rajabpour/TradingView-Webhook-Bot">TradingView-Webhook-Bot</a> | listens to TradingView alerts via webhooks and sends them instantly to Telegram, Discord, Twitter and/or Email</p>
 </details>
 
 <details>
 <summary><h3> 🔬 Medical Research </h3></summary>
-<p>- <a href="https://github.com/ali-rajabpour/ResearchDataCleaner">ResearchDataCleaner</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/ResearchDataCleaner">ResearchDataCleaner</a> | Preprocess raw patient data related to rare neurological diseases; handles missing values and normalizes features to prepare the data for further analysis</p>
 </details>
 
 ## GitHub Stats
