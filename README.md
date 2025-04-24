@@ -68,7 +68,7 @@
 ![Static Badge](https://img.shields.io/badge/Chrome-%234285F4?style=for-the-badge&logo=googlechrome&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=Debian&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Figma-%23#F24E1E?style=for-the-badge&logo=figma&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/FileZilla-%23BF0000?style=for-the-badge&logo=FileZilla&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Firefox-%23FF7139?style=for-the-badge&logo=Firefox&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=%23ffffff)
