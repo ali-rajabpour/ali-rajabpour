@@ -81,6 +81,7 @@
 ![Static Badge](https://img.shields.io/badge/Solidity-%23363636?style=for-the-badge&logo=solidity&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuejs&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Pine%20Script-%2300B453?style=for-the-badge&logo=pinescript&logoColor=%23ffffff)
 
 </div>
 
@@ -130,6 +131,7 @@
 ![Static Badge](https://img.shields.io/badge/Moodle-%23F98012?style=for-the-badge&logo=moodle&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/IBM%20Spss-%233D7EBB?style=for-the-badge&logo=spss&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Zorero-%23CC2936?style=for-the-badge&logo=zorero&logoColor=%23ffffff)
 
 </div>
 
