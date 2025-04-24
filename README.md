@@ -14,24 +14,22 @@
 
 <details>
 <summary><h3> 🌱 Lifehacks · Side Projects</h3></summary>
-<p>
-- [Google](https://google.com)
-- [Yahoo](https://yahoo.com)
-</p>
+<p>- [Google](https://google.com)</p>
+<p>- [Yahoo](https://yahoo.com)</p>
 </details>
 
 <details>
-<summary>💼 Freelance Projects</summary>
+<summary><h3>💼 Freelance Projects</h3></summary>
 <p>TEST</p>
 </details>
 
 <details>
-<summary>📈 Trading · Stocks · Finance</summary>
+<summary><h3>📈 Trading · Stocks · Finance</h3></summary>
 <p>TEST</p>
 </details>
 
 <details>
-<summary>🔬 Medical Research</summary>
+<summary><h3>🔬 Medical Research</h3></summary>
 <p>TEST</p>
 </details>
 
@@ -110,3 +108,4 @@
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" width="47" height="35" alt="website" />
   </a>
 </div>
+
