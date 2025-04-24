@@ -61,7 +61,7 @@
 ## Tech Stack
 <br>
 <div align="left">
-<h4><em>➤Programming and Markup Languages:</em></h4>
+<h4><em>➤ Programming and Markup Languages:</em></h4>
 </div>
 <div align="center">
 
@@ -86,7 +86,7 @@
 
 <br>
 <div align="left">
-<h4><em>➤Frameworks and Libraries:</em></h4>
+<h4><em>➤ Frameworks and Libraries:</em></h4>
 </div>
 <div align="center">
 
@@ -97,7 +97,7 @@
 
 <br>
 <div align="left">
-<h4><em>➤Databases and Cloud:</em></h4>
+<h4><em>➤ Databases and Cloud:</em></h4>
 </div>
 <div align="center">
 
@@ -115,7 +115,7 @@
 
 <br>
 <div align="left">
-<h4><em>➤Software and Tools:</em></h4>
+<h4><em>➤ Software and Tools:</em></h4>
 </div>
 <div align="center">
 
