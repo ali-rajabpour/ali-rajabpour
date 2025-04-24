@@ -14,39 +14,39 @@
 
 <details>
 <summary><h3> 🌱 Lifehacks · Side Projects </h3></summary>
-<p>- <a href="https://github.com/ali-rajabpour/Discord-Automation">Discord-Automation</a></p>
-<p>- <a href="https://github.com/ali-rajabpour/FileFlow">FileFlow</a></p>
-<p>- <a href="https://github.com/ali-rajabpour/NameMimicker">NameMimicker</a></p>
-<p>- <a href="https://github.com/ali-rajabpour/Twitter-Automation">Twitter-Automation</a></p>
-<p>- <a href="https://github.com/ali-rajabpour/Instagram-Automation">Instagram-Automation</a></p>
-<p>- <a href="https://github.com/ali-rajabpour/persian-google-calendar">persian-google-calendar</a></p>
-<p>- <a href="https://github.com/ali-rajabpour/s-ui-frontend">s-ui-frontend</a></p>
-<p>- <a href="https://github.com/ali-rajabpour/s-ui">s-ui</a></p>
-<p>- <a href="https://github.com/ali-rajabpour/Automated-Traffic-Tickets-Device">Automated-Traffic-Tickets-Device</a></p>
-<p>- <a href="https://github.com/ali-rajabpour/CIDR-to-IP-List">CIDR-to-IP-List</a></p>
+<p>- <a href="https://github.com/ali-rajabpour/Discord-Automation">Discord-Automation</a> | A Chrome extension with a Python backend that automates sending messages across multiple Discord accounts, featuring 24-hour batching, account rotation, and robust UI container selection for reliable messaging automation</p>
+<p>- <a href="https://github.com/ali-rajabpour/FileFlow">FileFlow</a> | generates a visual diagram and Markdown report of file-to-file import dependencies within a Python project using only the standard library</p>
+<p>- <a href="https://github.com/ali-rajabpour/NameMimicker">NameMimicker</a> | A Python tool for generating Unicode lookalike strings with advanced obfuscation techniques for security research and homoglyph analysis</p>
+<p>- <a href="https://github.com/ali-rajabpour/Twitter-Automation">Twitter-Automation</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/Instagram-Automation">Instagram-Automation</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/persian-google-calendar">persian-google-calendar</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/s-ui-frontend">s-ui-frontend</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/s-ui">s-ui</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/Automated-Traffic-Tickets-Device">Automated-Traffic-Tickets-Device</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/CIDR-to-IP-List">CIDR-to-IP-List</a> | </p>
 </details>
 
 <details>
 <summary><h3> 💼 Freelance Projects </h3></summary>
-<p>- [ServerMGMT](https://github.com/ali-rajabpour/ServerMGMT)</p>
-<p>- [MultiBC_Faucet](https://github.com/ali-rajabpour/MultiBC_Faucet)</p>
-<p>- [QURC](https://github.com/ali-rajabpour/QURC)</p>
-<p>- [BUMSLMS](https://github.com/ali-rajabpour/BUMSLMS)</p>
-<p>- [moodlemobile2](https://github.com/ali-rajabpour/moodlemobile2)</p>
-<p>- [bigbluebutton](https://github.com/ali-rajabpour/bigbluebutton)</p>
+<p>- <a href="https://github.com/ali-rajabpour/ServerMGMT">ServerMGMT</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/MultiBC_Faucet">MultiBC_Faucet</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/QURC">QURC</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/BUMSLMS">BUMSLMS</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/moodlemobile2">moodlemobile2</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/bigbluebutton">bigbluebutton</a> | </p>
 </details>
 
 <details>
 <summary><h3> 📈 Trading · Stocks · Finance </h3></summary>
-<p>- [Phoenix](https://github.com/ali-rajabpour/Phoenix)</p>
-<p>- [Leverage_PosSize_RR_TelegramBot](https://github.com/ali-rajabpour/Leverage_PosSize_RR_TelegramBot)</p>
-<p>- [Leverage-Position-Size-and-RR](https://github.com/ali-rajabpour/Leverage-Position-Size-and-RR)</p>
-<p>- [TradingView-Webhook-Bot](https://github.com/ali-rajabpour/TradingView-Webhook-Bot)</p>
+<p>- <a href="https://github.com/ali-rajabpour/Phoenix">Phoenix</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/Leverage_PosSize_RR_TelegramBot">Leverage_PosSize_RR_TelegramBot</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/Leverage-Position-Size-and-RR">Leverage-Position-Size-and-RR</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/TradingView-Webhook-Bot">TradingView-Webhook-Bot</a> | </p>
 </details>
 
 <details>
 <summary><h3> 🔬 Medical Research </h3></summary>
-<p>- [ResearchDataCleaner](https://github.com/ali-rajabpour/ResearchDataCleaner)</p>
+<p>- <a href="https://github.com/ali-rajabpour/ResearchDataCleaner">ResearchDataCleaner</a> | </p>
 </details>
 
 ## GitHub Stats
