@@ -85,7 +85,7 @@
 ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Solidity-%23363636?style=for-the-badge&logo=solidity&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Spss-%233D7EBB?style=for-the-badge&logo=spss&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/IBM%20Spss-%233D7EBB?style=for-the-badge&logo=spss&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Sqlite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuejs&logoColor=%23ffffff)
