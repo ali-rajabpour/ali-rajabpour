@@ -12,6 +12,10 @@
 
 ## Categories
 
+<details>
+<summary>Lifehacks & Side Projects</summary>
+<p>TEST</p>
+</details>
 <div align="center">
   <table>
     <tr>
