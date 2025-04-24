@@ -135,7 +135,11 @@
   </a>
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=ali-rajabpour)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ## Connect With Me
 
