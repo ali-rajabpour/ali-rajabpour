@@ -140,18 +140,18 @@
     <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/instagram.svg" width="47" height="35" alt="instagram logo" />
   </a>
   <a href="mailto:ali.poursanati@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/gmail.svg" width="47" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/alirajabpour/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/linkedin.svg" width="47" height="35" alt="linkedin logo" />
   </a>
   <a href="https://t.me/ali_rps">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo" />
+    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/telegram.svg" width="47" height="35" alt="telegram logo" />
   </a>
   <a href="https://twitter.com/A_Rajabpour">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo" />
+    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/x.svg" width="47" height="35" alt="twitter logo" />
   </a>
   <a href="https://Rajabpour.com">
-    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" width="47" height="35" alt="website" />
+    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/website.svg" width="47" height="35" alt="website" />
   </a>
 </div>
