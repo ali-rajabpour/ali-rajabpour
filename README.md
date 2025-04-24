@@ -51,8 +51,8 @@
 </div>
 
 ## Tech Stack
-![Static Badge](https://img.shields.io/badge/JavaScript-%233178C6?style=for-the-badge&logo=JavaScript&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/TypeScript-%23F7DF1E?style=for-the-badge&logo=TypeScript&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=%23ffffff)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
