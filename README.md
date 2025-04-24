@@ -135,7 +135,7 @@
   </a>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?ali-rajabpour=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ali-rajabpour)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Connect With Me
 
