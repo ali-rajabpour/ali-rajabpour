@@ -60,7 +60,7 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-%23663399?style=for-the-badge&logo=CSS3&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=Anaconda&logoColor=%23ffffff)
-
+![Static Badge](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=awsorganizations&logoColor=%23ffffff)
 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
