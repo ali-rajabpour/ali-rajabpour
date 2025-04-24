@@ -14,23 +14,39 @@
 
 <details>
 <summary><h3> 🌱 Lifehacks · Side Projects </h3></summary>
-<p>- [Google](https://google.com)</p>
-<p>- [Yahoo](https://yahoo.com)</p>
+<p>- [Discord-Automation](https://github.com/ali-rajabpour/Discord-Automation)</p>
+<p>- [FileFlow](https://github.com/ali-rajabpour/FileFlow)</p>
+<p>- [NameMimicker](https://github.com/ali-rajabpour/NameMimicker)</p>
+<p>- [Twitter-Automation](https://github.com/ali-rajabpour/Twitter-Automation)</p>
+<p>- [Instagram-Automation](https://github.com/ali-rajabpour/Instagram-Automation)</p>
+<p>- [persian-google-calendar](https://github.com/ali-rajabpour/persian-google-calendar)</p>
+<p>- [s-ui-frontend](https://github.com/ali-rajabpour/s-ui-frontend)</p>
+<p>- [s-ui](https://github.com/ali-rajabpour/s-ui)</p>
+<p>- [Automated-Traffic-Tickets-Device](https://github.com/ali-rajabpour/Automated-Traffic-Tickets-Device)</p>
+<p>- [CIDR-to-IP-List](https://github.com/ali-rajabpour/CIDR-to-IP-List)</p>
 </details>
 
 <details>
 <summary><h3> 💼 Freelance Projects </h3></summary>
-<p>TEST</p>
+<p>- [ServerMGMT](https://github.com/ali-rajabpour/ServerMGMT)</p>
+<p>- [MultiBC_Faucet](https://github.com/ali-rajabpour/MultiBC_Faucet)</p>
+<p>- [QURC](https://github.com/ali-rajabpour/QURC)</p>
+<p>- [BUMSLMS](https://github.com/ali-rajabpour/BUMSLMS)</p>
+<p>- [moodlemobile2](https://github.com/ali-rajabpour/moodlemobile2)</p>
+<p>- [bigbluebutton](https://github.com/ali-rajabpour/bigbluebutton)</p>
 </details>
 
 <details>
 <summary><h3> 📈 Trading · Stocks · Finance </h3></summary>
-<p>TEST</p>
+<p>- [Phoenix](https://github.com/ali-rajabpour/Phoenix)</p>
+<p>- [Leverage_PosSize_RR_TelegramBot](https://github.com/ali-rajabpour/Leverage_PosSize_RR_TelegramBot)</p>
+<p>- [Leverage-Position-Size-and-RR](https://github.com/ali-rajabpour/Leverage-Position-Size-and-RR)</p>
+<p>- [TradingView-Webhook-Bot](https://github.com/ali-rajabpour/TradingView-Webhook-Bot)</p>
 </details>
 
 <details>
 <summary><h3> 🔬 Medical Research </h3></summary>
-<p>TEST</p>
+<p>- [ResearchDataCleaner](https://github.com/ali-rajabpour/ResearchDataCleaner)</p>
 </details>
 
 ## GitHub Stats
