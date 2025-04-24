@@ -59,6 +59,9 @@
 </div>
 
 ## Tech Stack
+<div align="left">
+### Programming and Markup Languages:
+</div>
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=%23ffffff)
