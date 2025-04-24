@@ -49,15 +49,6 @@
 <p>- <a href="https://github.com/ali-rajabpour/ResearchDataCleaner">ResearchDataCleaner</a> | Preprocess raw patient data related to rare neurological diseases; handles missing values and normalizes features to prepare the data for further analysis</p>
 </details>
 
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-rajabpour&show_icons=true&include_all_commits=true&count_private=true&theme=default&bg_color=ffffff" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-rajabpour&layout=compact&langs_count=8&theme=default&bg_color=ffffff" />
-  </a>
-</div>
-
 ## Tech Stack
 <br>
 <div align="left">
@@ -135,6 +126,14 @@
 
 </div>
 
+## GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-rajabpour&show_icons=true&include_all_commits=true&count_private=true&theme=default&bg_color=ffffff" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-rajabpour&layout=compact&langs_count=8&theme=default&bg_color=ffffff" />
+  </a>
+</div>
 
 ## Connect With Me
 
