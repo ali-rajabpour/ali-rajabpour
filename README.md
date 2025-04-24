@@ -13,43 +13,23 @@
 ## Repos Categories
 
 <details>
-  <summary>
-    <img
-      alt="🌱 Lifehacks & Side Projects"
-      src="[https://img.shields.io/badge/🌱%20Lifehacks--Side%20Projects-36BCF7?style=for-the-badge&logo=github"](https://img.shields.io/badge/🌱%20Lifehacks--Side%20Projects-36BCF7?style=for-the-badge&logo=github")
-    />
-  </summary>
-  <p>TEST</p>
+<summary>### 🌱 Lifehacks · Side Projects</summary>
+<p>TEST</p>
 </details>
 
 <details>
-  <summary>
-    <img
-      alt="💼 Freelance Projects"
-      src="[https://img.shields.io/badge/💼%20Freelance%20Projects-F59E0B?style=for-the-badge&logo=github"](https://img.shields.io/badge/💼%20Freelance%20Projects-F59E0B?style=for-the-badge&logo=github")
-    />
-  </summary>
-  <p>TEST</p>
+<summary>💼 Freelance Projects</summary>
+<p>TEST</p>
 </details>
 
 <details>
-  <summary>
-    <img
-      alt="📈 Trading · Stocks · Finance"
-      src="[https://img.shields.io/badge/📈%20Trading--Stocks--Finance-10B981?style=for-the-badge&logo=github"](https://img.shields.io/badge/📈%20Trading--Stocks--Finance-10B981?style=for-the-badge&logo=github")
-    />
-  </summary>
-  <p>TEST</p>
+<summary>📈 Trading · Stocks · Finance</summary>
+<p>TEST</p>
 </details>
 
 <details>
-  <summary>
-    <img
-      alt="🔬 Medical Research"
-      src="[https://img.shields.io/badge/🔬%20Medical%20Research-8B5CF6?style=for-the-badge&logo=github"](https://img.shields.io/badge/🔬%20Medical%20Research-8B5CF6?style=for-the-badge&logo=github")
-    />
-  </summary>
-  <p>TEST</p>
+<summary>🔬 Medical Research</summary>
+<p>TEST</p>
 </details>
 
 ## GitHub Stats
