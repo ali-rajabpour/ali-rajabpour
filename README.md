@@ -14,16 +14,16 @@
 
 <details>
 <summary><h3> 🌱 Lifehacks · Side Projects </h3></summary>
-<p>- [Discord-Automation](https://github.com/ali-rajabpour/Discord-Automation)</p>
-<p>- [FileFlow](https://github.com/ali-rajabpour/FileFlow)</p>
-<p>- [NameMimicker](https://github.com/ali-rajabpour/NameMimicker)</p>
-<p>- [Twitter-Automation](https://github.com/ali-rajabpour/Twitter-Automation)</p>
-<p>- [Instagram-Automation](https://github.com/ali-rajabpour/Instagram-Automation)</p>
-<p>- [persian-google-calendar](https://github.com/ali-rajabpour/persian-google-calendar)</p>
-<p>- [s-ui-frontend](https://github.com/ali-rajabpour/s-ui-frontend)</p>
-<p>- [s-ui](https://github.com/ali-rajabpour/s-ui)</p>
-<p>- [Automated-Traffic-Tickets-Device](https://github.com/ali-rajabpour/Automated-Traffic-Tickets-Device)</p>
-<p>- [CIDR-to-IP-List](https://github.com/ali-rajabpour/CIDR-to-IP-List)</p>
+<p>- <a href="https://github.com/ali-rajabpour/Discord-Automation">Discord-Automation</a></p>
+<p>- <a href="https://github.com/ali-rajabpour/FileFlow">FileFlow</a></p>
+<p>- <a href="https://github.com/ali-rajabpour/NameMimicker">NameMimicker</a></p>
+<p>- <a href="https://github.com/ali-rajabpour/Twitter-Automation">Twitter-Automation</a></p>
+<p>- <a href="https://github.com/ali-rajabpour/Instagram-Automation">Instagram-Automation</a></p>
+<p>- <a href="https://github.com/ali-rajabpour/persian-google-calendar">persian-google-calendar</a></p>
+<p>- <a href="https://github.com/ali-rajabpour/s-ui-frontend">s-ui-frontend</a></p>
+<p>- <a href="https://github.com/ali-rajabpour/s-ui">s-ui</a></p>
+<p>- <a href="https://github.com/ali-rajabpour/Automated-Traffic-Tickets-Device">Automated-Traffic-Tickets-Device</a></p>
+<p>- <a href="https://github.com/ali-rajabpour/CIDR-to-IP-List">CIDR-to-IP-List</a></p>
 </details>
 
 <details>
@@ -124,4 +124,3 @@
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" width="47" height="35" alt="website" />
   </a>
 </div>
-
