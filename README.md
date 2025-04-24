@@ -13,23 +13,23 @@
 ## Repos Categories
 
 <details>
-<summary><h3> 🌱 Lifehacks · Side Projects</h3></summary>
+<summary><h3> 🌱 Lifehacks · Side Projects </h3></summary>
 <p>- [Google](https://google.com)</p>
 <p>- [Yahoo](https://yahoo.com)</p>
 </details>
 
 <details>
-<summary><h3>💼 Freelance Projects</h3></summary>
+<summary><h3> 💼 Freelance Projects </h3></summary>
 <p>TEST</p>
 </details>
 
 <details>
-<summary><h3>📈 Trading · Stocks · Finance</h3></summary>
+<summary><h3> 📈 Trading · Stocks · Finance </h3></summary>
 <p>TEST</p>
 </details>
 
 <details>
-<summary><h3>🔬 Medical Research</h3></summary>
+<summary><h3> 🔬 Medical Research </h3></summary>
 <p>TEST</p>
 </details>
 
