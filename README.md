@@ -152,6 +152,6 @@
     <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/telegram.svg" width="47" height="35" alt="telegram logo" />
   </a>
   <a href="https://twitter.com/A_Rajabpour">
-    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/x_icon.svg" width="47" height="35" alt="twitter logo" />
+    <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/x_icon512.svg" width="47" height="35" alt="twitter logo" />
   </a>
 </div>
