@@ -61,35 +61,26 @@
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=Anaconda&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=Amazon&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Apache-%23D22128?style=for-the-badge&logo=Apache&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Kafka-%23231F20?style=for-the-badge&logo=ApacheKafka&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=Arduino&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=Bash&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Chrome-%234285F4?style=for-the-badge&logo=Chrome&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=Debian&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Figma-%23#F24E1E?style=for-the-badge&logo=Figma&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/FileZilla-%23BF0000?style=for-the-badge&logo=FileZilla&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Firefox-%23FF7139?style=for-the-badge&logo=Firefox&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=%23ffffff)
 
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
+
+
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" height="30" alt="ifttt logo"  />
