@@ -57,6 +57,7 @@
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Stoploss-Indicator">ARPS Stoploss Indicator</a> | Stoploss Indicator</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Super-Ichimoku-2025">ARPS Super Ichimoku 2025</a> | Super Ichimoku 2025</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Super-Ichimoku-System">ARPS Super Ichimoku System</a> | Super Ichimoku System</p>
+<p>- <a href="https://github.com/ali-rajabpour/ARPS-Super-Ichimoku-v4">ARPS Super Ichimoku v4</a> | Super Ichimoku v4</p>
 </details>
 
 
