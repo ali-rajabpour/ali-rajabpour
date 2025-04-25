@@ -46,6 +46,7 @@
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Scalp-Strategy">ARPS Scalp Strategy</a> | Scalp Strategy</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Ichimoku-Gann-Hybrid-Indicator">ARPS Ichimoku-Gann Hybrid Indicator</a> | Ichimoku-Gann Hybrid Indicator</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-ICT-Smart-Money-Assistant">ARPS ICT Smart Money Assistant</a> | ICT Smart Money Assistant</p>
+<p>- <a href="https://github.com/ali-rajabpour/ARPS-info-Table">ARPS info Table</a> | info Table</p>
 </details>
 
 <details>
