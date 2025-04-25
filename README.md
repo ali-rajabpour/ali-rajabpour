@@ -59,6 +59,7 @@
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Super-Ichimoku-System">ARPS Super Ichimoku System</a> | Super Ichimoku System</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Super-Ichimoku-v4">ARPS Super Ichimoku v4</a> | Super Ichimoku v4</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Super-Ichimoku-v5">ARPS Super Ichimoku v5</a> | Super Ichimoku v5</p>
+<p>- <a href="https://github.com/ali-rajabpour/ARPS-Ultimate-Trading-Solution-(A-6H)">ARPS Ultimate Trading Solution (A-6H)</a> | Ultimate Trading Solution (A-6H)</p>
 </details>
 
 
