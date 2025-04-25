@@ -63,6 +63,7 @@
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Ultimate-Signal-Framework-USF">ARPS Ultimate Signal Framework (USF)</a> | Ultimate Signal Framework (USF)</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Ultimate-MultiStrategy-Trading">ARPS Ultimate MultiStrategy Trading</a> | Ultimate MultiStrategy Trading</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Ult-Solution-A-30m-pinev5">ARPS Ult Solution A(30m) pinev5</a> | Ult Solution A(30m) pinev5</p>
+<p>- <a href="https://github.com/ali-rajabpour/ARPS-Advanced-Synergistic-Oscillators-&-Filters">ARPS Advanced Synergistic Oscillators & Filters</a> | Advanced Synergistic Oscillators & Filters</p>
 </details>
 
 
