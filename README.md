@@ -54,6 +54,7 @@
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Scalp-Suite">ARPS Scalp Suite</a> | Scalp Suite</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Ultra-Scalper">ARPS Ultra Scalper</a> | Ultra Scalper</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Scalp-Short-Indicator">ARPS Scalp Short Indicator</a> | Scalp Short Indicator</p>
+<p>- <a href="https://github.com/ali-rajabpour/ARPS-Stoploss-Indicator">ARPS Stoploss Indicator</a> | Stoploss Indicator</p>
 </details>
 
 
