@@ -49,6 +49,7 @@
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-info-Table">ARPS info Table</a> | info Table</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Long-Term-Strategy">ARPS Long Term Strategy</a> | Long Term Strategy</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-MACD+ATR-Table">ARPS MACD+ATR Table</a> | MACD+ATR Table</p>
+<p>- <a href="https://github.com/ali-rajabpour/ARPS-Pivots">ARPS Pivots</a> | Pivots</p>
 </details>
 
 <details>
