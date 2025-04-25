@@ -14,12 +14,12 @@
 
 <details>
 <summary><h3> 🌱 Lifehacks · Side Projects </h3></summary>
-<p>- <a href="https://github.com/ali-rajabpour/Discord-Automation">Discord-Automation</a> | A Chrome extension with a Python backend that automates sending messages across multiple Discord accounts, featuring 24-hour batching, account rotation, and robust UI container selection for reliable messaging automation</p>
+<p>- <a href="https://github.com/ali-rajabpour/Discord-Automation">Discord-Automation (Private)</a> | A Chrome extension with a Python backend that automates sending messages across multiple Discord accounts, featuring 24-hour batching, account rotation, and robust UI container selection for reliable messaging automation</p>
 <p>- <a href="https://github.com/ali-rajabpour/FileFlow">FileFlow</a> | generates a visual diagram and Markdown report of file-to-file import dependencies within a Python project using only the standard library</p>
 <p>- <a href="https://github.com/ali-rajabpour/NameMimicker">NameMimicker</a> | A Python tool for generating Unicode lookalike strings with advanced obfuscation techniques for security research and homoglyph analysis</p>
-<p>- <a href="https://github.com/ali-rajabpour/Twitter-Automation">Twitter-Automation</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/Twitter-Automation">Twitter-Automation (Private)</a> | </p>
 <p>- <a href="https://github.com/ali-rajabpour/Instagram-Automation">Instagram-Automation</a> | </p>
-<p>- <a href="https://github.com/ali-rajabpour/persian-google-calendar">persian-google-calendar</a> | A web application that allows users to view and manage their Google Calendar events using a Persian/Jalali calendar interface</p>
+<p>- <a href="https://github.com/ali-rajabpour/persian-google-calendar">Persian-Google-Calendar (Private)</a> | A web application that allows users to view and manage their Google Calendar events using a Persian/Jalali calendar interface</p>
 <p>- <a href="https://github.com/ali-rajabpour/s-ui-frontend">s-ui-frontend</a> | Frontend for s-ui</p>
 <p>- <a href="https://github.com/ali-rajabpour/s-ui">s-ui</a> | An advanced Web Panel • Built for SagerNet/Sing-Box</p>
 <p>- <a href="https://github.com/ali-rajabpour/Automated-Traffic-Tickets-Device">Automated-Traffic-Tickets-Device</a> | Automated recognition, registration and uploading of traffic tickets device</p>
@@ -28,17 +28,17 @@
 
 <details>
 <summary><h3> 💼 Freelance Projects </h3></summary>
-<p>- <a href="https://github.com/ali-rajabpour/ServerMGMT">ServerMGMT</a> | </p>
-<p>- <a href="https://github.com/ali-rajabpour/MultiBC_Faucet">MultiBC_Faucet</a> | </p>
-<p>- <a href="https://github.com/ali-rajabpour/QURC">QURC</a> | </p>
-<p>- <a href="https://github.com/ali-rajabpour/BUMSLMS">BUMSLMS</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/ServerMGMT">ServerMGMT (Private)</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/MultiBC_Faucet">MultiBC_Faucet (Private)</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/QURC">QURC (Private)</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/BUMSLMS">BUMSLMS (Private)</a> | </p>
 <p>- <a href="https://github.com/ali-rajabpour/moodlemobile2">moodlemobile2</a> | </p>
 <p>- <a href="https://github.com/ali-rajabpour/bigbluebutton">bigbluebutton</a> | </p>
 </details>
 
 <details>
 <summary><h3> 📈 Trading · Stocks · Finance </h3></summary>
-<p>- <a href="https://github.com/ali-rajabpour/Phoenix">Phoenix</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/Phoenix">Phoenix (Private)</a> | </p>
 <p>- <a href="https://github.com/ali-rajabpour/Leverage_PosSize_RR_TelegramBot">Leverage_PosSize_RR_TelegramBot</a> | Telegram Bot for Calculating leverage, position size and RR based on user inputs</p>
 <p>- <a href="https://github.com/ali-rajabpour/Leverage-Position-Size-and-RR">Leverage-Position-Size-and-RR</a> | Script to calculate leverage, position size and RR based on the user inputs</p>
 <p>- <a href="https://github.com/ali-rajabpour/TradingView-Webhook-Bot">TradingView-Webhook-Bot</a> | listens to TradingView alerts via webhooks and sends them instantly to Telegram, Discord, Twitter and/or Email</p>
