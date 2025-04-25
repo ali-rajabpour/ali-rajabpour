@@ -28,9 +28,9 @@
 
 <details>
 <summary><h3> 💼 Freelance Projects </h3></summary>
-<p>- <a href="https://github.com/ali-rajabpour/ServerMGMT">ServerMGMT (Private)</a> | </p>
-<p>- <a href="https://github.com/ali-rajabpour/MultiBC_Faucet">MultiBC_Faucet (Private)</a> | </p>
-<p>- <a href="https://github.com/ali-rajabpour/QURC">QURC (Private)</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/ServerMGMT">Server Management Control Panel (Private)</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/MultiBC_Faucet">Multi BlockChain Faucet (Private)</a> | </p>
+<p>- <a href="https://github.com/ali-rajabpour/QURC">QUR Coin (Private)</a> | </p>
 <p>- <a href="https://github.com/ali-rajabpour/BUMSLMS">BUMS LMS/LCMS (Private)</a> | </p>
 <p>- <a href="https://github.com/ali-rajabpour/moodlemobile2">moodlemobile2</a> | </p>
 <p>- <a href="https://github.com/ali-rajabpour/bigbluebutton">bigbluebutton</a> | </p>
