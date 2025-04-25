@@ -72,6 +72,7 @@
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Convergent-Pro-V5">ARPS Convergent Pro V5</a> | Convergent Pro V5</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Intraday-Signal">ARPS Intraday Signal</a> | Intraday Signal</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-FastScalping-Indicator">ARPS FastScalping Indicator</a> | FastScalping Indicator</p>
+<p>- <a href="https://github.com/ali-rajabpour/ARPS-OB-Scalp">ARPS OB Scalp</a> | OB Scalp</p>
 </details>
 
 
