@@ -52,7 +52,10 @@
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Pivots">ARPS Pivots</a> | Pivots</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-RSI-MA-Scalping-Strategy">ARPS RSI-MA Scalping Strategy</a> | RSI-MA Scalping Strategy</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Scalp-Suite">ARPS Scalp Suite</a> | Scalp Suite</p>
+<p>- <a href="https://github.com/ali-rajabpour/ARPS-Ultra-Scalper">ARPS Ultra Scalper</a> | Ultra Scalper</p>
+<p>- <a href="https://github.com/ali-rajabpour/ARPS-Scalp-Short-Indicator">ARPS Scalp Short Indicator</a> | Scalp Short Indicator</p>
 </details>
+
 
 <details>
 <summary><h3> 🔬 Medical Research </h3></summary>
