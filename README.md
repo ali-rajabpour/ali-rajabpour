@@ -51,6 +51,7 @@
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-MACD+ATR-Table">ARPS MACD+ATR Table</a> | MACD+ATR Table</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Pivots">ARPS Pivots</a> | Pivots</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-RSI-MA-Scalping-Strategy">ARPS RSI-MA Scalping Strategy</a> | RSI-MA Scalping Strategy</p>
+<p>- <a href="https://github.com/ali-rajabpour/ARPS-Scalp-Suite">ARPS Scalp Suite</a> | Scalp Suite</p>
 </details>
 
 <details>
