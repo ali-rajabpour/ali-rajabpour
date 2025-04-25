@@ -68,6 +68,7 @@
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Multidimensional-Trend-Pivot-Alerts">ARPS Multidimensional Trend & Pivot Alerts</a> | Multidimensional Trend & Pivot Alerts</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Stochastic-Alligator-Divergence-System-SADS">ARPS Stochastic Alligator Divergence System (SADS)</a> | Stochastic Alligator Divergence System (SADS)</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-OmniFusion-Technical-Suite">ARPS OmniFusion Technical Suite</a> | OmniFusion Technical Suite</p>
+<p>- <a href="https://github.com/ali-rajabpour/ARPS-Zenith-Ichimoku-Framework">ARPS Zenith Ichimoku Framework</a> | Zenith Ichimoku Framework</p>
 </details>
 
 
