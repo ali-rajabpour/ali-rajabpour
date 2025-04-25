@@ -43,7 +43,6 @@
 <p>- <a href="https://github.com/ali-rajabpour/Leverage-Position-Size-and-RR">Leverage-Position-Size-and-RR</a> | Script to calculate leverage, position size and RR based on the user inputs</p>
 <p>- <a href="https://github.com/ali-rajabpour/TradingView-Webhook-Bot">TradingView-Webhook-Bot</a> | listens to TradingView alerts via webhooks and sends them instantly to Telegram, Discord, Twitter and/or Email</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Candlestick-Patterns">ARPS All Candlestick Patterns</a> | All Candlestick Patterns indicator</p>
-</details>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Scalp-Strategy">ARPS Scalp Strategy</a> | Scalp Strategy</p>
 </details>
 
