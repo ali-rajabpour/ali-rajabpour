@@ -66,7 +66,7 @@
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Advanced-Synergistic-Oscillators-Filters">ARPS Advanced Synergistic Oscillators & Filters</a> | Advanced Synergistic Oscillators & Filters</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Ultimate-Advanced-Trade-Toolkit-Alert">ARPS Ultimate Advanced Trade Toolkit (Alert)</a> | Ultimate Advanced Trade Toolkit (Alert)</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Multidimensional-Trend-Pivot-Alerts">ARPS Multidimensional Trend & Pivot Alerts</a> | Multidimensional Trend & Pivot Alerts</p>
-<p>- <a href="https://github.com/ali-rajabpour/ARPS-Stochastic-Alligator-Divergence-System-(SADS)">ARPS Stochastic Alligator Divergence System (SADS)</a> | Stochastic Alligator Divergence System (SADS)</p>
+<p>- <a href="https://github.com/ali-rajabpour/ARPS-Stochastic-Alligator-Divergence-System-SADS">ARPS Stochastic Alligator Divergence System (SADS)</a> | Stochastic Alligator Divergence System (SADS)</p>
 </details>
 
 
