@@ -126,12 +126,12 @@
 
 </div>
 
-## GitHub Stats
+## My GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-gray-chi.vercel.app/api?username=ali-rajabpour&show_icons=true&include_all_commits=true&count_private=true&theme=default&bg_color=ffffff" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-rajabpour&layout=compact&langs_count=8&theme=default&bg_color=ffffff" />
+    <img height="180em" src="https://github-readme-stats-gray-chi.vercel.app/api?username=ali-rajabpour&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats&theme=default&bg_color=ffffff" />
+    <img height="180em" src="https://github-readme-stats-gray-chi.vercel.app/api/top-langs/?username=ali-rajabpour&layout=pie&langs_count=8&theme=default&bg_color=ffffff" />
   </a>
 </div>
 
@@ -165,4 +165,3 @@
     <img src="https://raw.githubusercontent.com/ali-rajabpour/ali-rajabpour/refs/heads/main/assets/icons/x_icon512.svg" width="50" height="35" alt="twitter logo" />
   </a>
 </div>
-
