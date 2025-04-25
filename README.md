@@ -44,6 +44,7 @@
 <p>- <a href="https://github.com/ali-rajabpour/TradingView-Webhook-Bot">TradingView-Webhook-Bot</a> | listens to TradingView alerts via webhooks and sends them instantly to Telegram, Discord, Twitter and/or Email</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Candlestick-Patterns">ARPS All Candlestick Patterns</a> | All Candlestick Patterns indicator</p>
 <p>- <a href="https://github.com/ali-rajabpour/ARPS-Scalp-Strategy">ARPS Scalp Strategy</a> | Scalp Strategy</p>
+<p>- <a href="https://github.com/ali-rajabpour/ARPS-Ichimoku-Gann-Hybrid-Indicator">ARPS Ichimoku-Gann Hybrid Indicator</a> | Ichimoku-Gann Hybrid Indicator</p>
 </details>
 
 <details>
