@@ -19,7 +19,7 @@
 <p>- <a href="https://github.com/ali-rajabpour/NameMimicker">NameMimicker</a> | A Python tool for generating Unicode lookalike strings with advanced obfuscation techniques for security research and homoglyph analysis</p>
 <p>- <a href="https://github.com/ali-rajabpour/Twitter-Automation">Twitter-Automation (Private)</a> | </p>
 <p>- <a href="https://github.com/ali-rajabpour/Instagram-Automation">Instagram-Automation</a> | </p>
-<p>- <a href="https://github.com/ali-rajabpour/persian-google-calendar">Persian-Google-Calendar (Private)</a> | A web application that allows users to view and manage their Google Calendar events using a Persian/Jalali calendar interface</p>
+<p>- <a href="https://github.com/ali-rajabpour/persian-google-calendar">Persian-Google-Calendar</a> | A web application that allows users to view and manage their Google Calendar events using a Persian/Jalali calendar interface</p>
 <p>- <a href="https://github.com/ali-rajabpour/s-ui-frontend">s-ui-frontend</a> | Frontend for s-ui</p>
 <p>- <a href="https://github.com/ali-rajabpour/s-ui">s-ui</a> | An advanced Web Panel • Built for SagerNet/Sing-Box</p>
 <p>- <a href="https://github.com/ali-rajabpour/Automated-Traffic-Tickets-Device">Automated-Traffic-Tickets-Device</a> | Automated recognition, registration and uploading of traffic tickets device</p>
