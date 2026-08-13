@@ -12,8 +12,8 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | | |
 |---|---|
-| Commits, all repositories | **3,977** (1,930 in 2026) |
-| Contributions, all time | **4,090** |
+| Commits, all repositories | **3,978** (1,931 in 2026) |
+| Contributions, all time | **4,091** |
 | Pull requests merged | **8** (5 to repositories I don't own) |
 | Repositories | **86** (36 private) |
 | Repositories touched in 2026 | **63** |
@@ -24,7 +24,7 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 |---|---|---|
 | Trading systems | 66% | public + private |
 | Healthcare | 24% | public + private |
-| Tooling / other | 6% | public + private |
+| Tooling / other | 7% | public + private |
 | Networking / infra | 2% | public + private |
 | Blockchain | 2% | public + private |
 
@@ -33,11 +33,11 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 | Language | Share | |
 |---|---|---|
 | TypeScript | 32.7% | `█████████████` |
-| Python | 26.4% | `███████████` |
+| Python | 26.5% | `███████████` |
 | MQL5 | 15.8% | `██████` |
 | PHP | 5.4% | `██` |
 | Solidity | 3.7% | `█` |
-| Jupyter Notebook | 3.1% | `█` |
+| Jupyter Notebook | 3.0% | `█` |
 | TeX | 2.6% | `█` |
 | HTML | 2.6% | `█` |
 
