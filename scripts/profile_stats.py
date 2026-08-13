@@ -24,12 +24,16 @@ START, END = "<!-- stats:start -->", "<!-- stats:end -->"
 FIRST_YEAR = 2019
 
 # repo name -> domain. First matching prefix wins, so order matters.
+# Client repos are named under NDA, so their prefixes live in the DOMAIN_MAP
+# secret instead of here. Without it they just fall through to OTHER.
 DOMAINS = [
     ("Healthcare", ("OmanEMR", "MedLitHarvester", "ResearchDataCleaner")),
     ("Trading systems", ("Phoenix", "phoenix", "ARPS", "MT5", "freqtrade", "metatrader", "tradingview", "Leverage", "TradingView")),
-    ("Networking / infra", ("telemt", "gost-", "dokploy-", "Personal-DoH", "s-ui", "ServerMGMT", "Amnezia", "aitb-")),
+    ("Networking / infra", ("telemt", "gost-", "dokploy-", "Personal-DoH", "s-ui", "ServerMGMT", "Amnezia")),
     ("Blockchain", ("TRC20", "BEP20", "QURC", "MultiBC")),
 ]
+if os.environ.get("DOMAIN_MAP"):
+    DOMAINS = [(k, tuple(v)) for k, v in json.loads(os.environ["DOMAIN_MAP"])] + DOMAINS
 OTHER = "Tooling / other"
 
 # Languages that are noise in a summary (config, generated, or vendored).
