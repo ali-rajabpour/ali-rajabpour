@@ -1,0 +1,30 @@
+name: Refresh profile stats
+
+on:
+  schedule:
+    - cron: "17 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate stats block
+        env:
+          # Classic PAT with read:user + repo, so private commits are counted.
+          GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: python3 scripts/profile_stats.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md && echo "no change" && exit 0
+          git add README.md
+          git commit -m "Refresh profile stats"
+          git push
