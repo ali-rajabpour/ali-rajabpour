@@ -12,8 +12,8 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | | |
 |---|---|
-| Commits, all repositories | **3,979** (1,932 in 2026) |
-| Contributions, all time | **4,092** |
+| Commits, all repositories | **3,980** (1,933 in 2026) |
+| Contributions, all time | **4,093** |
 | Pull requests merged | **8** (5 to repositories I don't own) |
 | Repositories | **86** (36 private) |
 | Repositories touched in 2026 | **63** |
