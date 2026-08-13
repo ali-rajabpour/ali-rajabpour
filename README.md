@@ -88,7 +88,7 @@ Client and production systems. Named here because the work is real; code stays c
 |---|---|---|
 | Phoenix | Automated trading platform, 21 services — broken out below | Python, TypeScript, MQL5, Shell |
 | AITB Crypto Trade Bot | Research and execution notebooks for a crypto trading desk, plus its operator front end | Jupyter, Python, TypeScript |
-| Box Strategy EA | Box-breakout expert advisor built for a prop trading client | MQL5 |
+| Box Strategy EA | Box-breakout expert advisor written for a client, sized for prop firm and retail accounts alike | MQL5 |
 
 <details>
 <summary>Phoenix, by layer</summary>
@@ -171,7 +171,7 @@ Written under the ARPS name since 2020. Thirty-two are published for TradingView
 
 **MetaTrader 5, private**
 
-Forex SuperIchi, a multi-timeframe Ichimoku expert advisor, and FCR, a currency-strength ranking model. Both trade live and share the strategy layer with Phoenix.
+Forex SuperIchi, a multi-timeframe Ichimoku expert advisor, and FCR, a First Candle Rule breakout system. Both trade live on prop firm and retail accounts, and share the strategy layer with Phoenix.
 
 ---
 
