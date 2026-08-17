@@ -12,8 +12,8 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | | |
 |---|---|
-| Commits, all repositories | **3,980** (1,933 in 2026) |
-| Contributions, all time | **4,093** |
+| Commits, all repositories | **4,097** (1,942 in 2026) |
+| Contributions, all time | **4,210** |
 | Pull requests merged | **8** (5 to repositories I don't own) |
 | Repositories | **86** (36 private) |
 | Repositories touched in 2026 | **63** |
@@ -22,9 +22,9 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | Area | Share | Visibility |
 |---|---|---|
-| Trading systems | 66% | public + private |
-| Healthcare | 24% | public + private |
-| Tooling / other | 7% | public + private |
+| Trading systems | 64% | public + private |
+| Healthcare | 23% | public + private |
+| Tooling / other | 9% | public + private |
 | Networking / infra | 2% | public + private |
 | Blockchain | 2% | public + private |
 
@@ -41,7 +41,7 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 | TeX | 2.6% | `█` |
 | HTML | 2.6% | `█` |
 
-<sub>Generated 13 Aug 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
+<sub>Generated 17 Aug 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
 
 <!-- stats:end -->
 
