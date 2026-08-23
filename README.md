@@ -12,11 +12,20 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | | |
 |---|---|
-| Commits, all repositories | **4,097** (1,942 in 2026) |
-| Contributions, all time | **4,210** |
+| Commits, all repositories | **4,106** (1,951 in 2026) |
+| Contributions, all time | **4,222** |
 | Pull requests merged | **8** (5 to repositories I don't own) |
 | Repositories | **86** (36 private) |
-| Repositories touched in 2026 | **63** |
+| Repositories touched in 2026 | **64** |
+| Organizations | **3** (5 further repositories, 213 commits) |
+
+**Organizations I build in**
+
+| Organization | Repositories | Commits | Work |
+|---|---|---|---|
+| AITB | 3 private | 199 | Crypto trading automation |
+| Trading client | 1 private | 8 | MQL5 strategy development |
+| Healthcare client | 1 private | 6 | Clinic web platform |
 
 **Where the commits go**
 
@@ -32,7 +41,7 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | Language | Share | |
 |---|---|---|
-| TypeScript | 32.7% | `█████████████` |
+| TypeScript | 32.6% | `█████████████` |
 | Python | 26.5% | `███████████` |
 | MQL5 | 15.8% | `██████` |
 | PHP | 5.4% | `██` |
@@ -41,7 +50,7 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 | TeX | 2.6% | `█` |
 | HTML | 2.6% | `█` |
 
-<sub>Generated 17 Aug 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
+<sub>Generated 23 Aug 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
 
 <!-- stats:end -->
 
