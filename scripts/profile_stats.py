@@ -36,6 +36,11 @@ if os.environ.get("DOMAIN_MAP"):
     DOMAINS = [(k, tuple(v)) for k, v in json.loads(os.environ["DOMAIN_MAP"])] + DOMAINS
 OTHER = "Tooling / other"
 
+# {"org-login": ["Display name", "What the work is"]}, from the ORG_LABELS secret.
+# Only orgs listed here are shown; anything else is counted in the totals but
+# never named, which is what keeps client orgs off a public page.
+ORGS = json.loads(os.environ.get("ORG_LABELS") or "{}")
+
 # Languages that are noise in a summary (config, generated, or vendored).
 LANG_SKIP = {"Batchfile", "Makefile", "Roff", "Procfile", "Smarty"}
 
@@ -84,7 +89,7 @@ query($from:DateTime!,$to:DateTime!){
       restrictedContributionsCount
       contributionCalendar{totalContributions}
       commitContributionsByRepository(maxRepositories:100){
-        repository{name nameWithOwner isPrivate}
+        repository{name nameWithOwner isPrivate owner{login}}
         contributions{totalCount}
       }
     }
@@ -118,7 +123,10 @@ def collect():
         totals["contributions"] += c["contributionCalendar"]["totalContributions"]
         for entry in c["commitContributionsByRepository"]:
             repo = entry["repository"]
-            rec = commits_by_repo.setdefault(repo["nameWithOwner"], {"n": 0, "private": repo["isPrivate"], "name": repo["name"]})
+            rec = commits_by_repo.setdefault(
+                repo["nameWithOwner"],
+                {"n": 0, "private": repo["isPrivate"], "name": repo["name"], "owner": repo["owner"]["login"]},
+            )
             rec["n"] += entry["contributions"]["totalCount"]
 
     repos = []
@@ -162,6 +170,15 @@ def render(d):
     lang_total = sum(d["langs"].values()) or 1
     top_langs = [(k, v / lang_total * 100) for k, v in d["langs"].most_common(8)]
 
+    org_commits = Counter()
+    for rec in d["commits_by_repo"].values():
+        org_commits[rec["owner"]] += rec["n"]
+    orgs = []
+    for login, (label, focus) in ORGS.items():
+        repos = [r for r in d["repos"] if r["owner"]["login"] == login]
+        orgs.append((label, len(repos), sum(1 for r in repos if r["private"]), org_commits.get(login, 0), focus))
+    orgs.sort(key=lambda o: o[3], reverse=True)
+
     domains = Counter()
     domain_private = {}
     for full, rec in d["commits_by_repo"].items():
@@ -179,7 +196,19 @@ def render(d):
     lines.append(f"| Pull requests merged | **{d['merged_prs']}** ({d['external_prs']} to repositories I don't own) |")
     lines.append(f"| Repositories | **{len(owned)}** ({private} private) |")
     lines.append(f"| Repositories touched in {active_year} | **{d['years'][active_year]['repos']}** |")
+    if orgs:
+        org_repos = sum(o[1] for o in orgs)
+        lines.append(f"| Organizations | **{len(orgs)}** ({org_repos} further repositories, {sum(o[3] for o in orgs):,} commits) |")
     lines.append("")
+    if orgs:
+        lines.append("**Organizations I build in**")
+        lines.append("")
+        lines.append("| Organization | Repositories | Commits | Work |")
+        lines.append("|---|---|---|---|")
+        for label, n_repos, n_private, commits, focus in orgs:
+            count = f"{n_repos} private" if n_private == n_repos else f"{n_repos} ({n_private} private)"
+            lines.append(f"| {label} | {count} | {commits:,} | {focus} |")
+        lines.append("")
     lines.append("**Where the commits go**")
     lines.append("")
     lines.append("| Area | Share | Visibility |")
