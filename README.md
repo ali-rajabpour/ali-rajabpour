@@ -12,11 +12,11 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | | |
 |---|---|
-| Commits, all repositories | **4,178** (2,023 in 2026) |
-| Contributions, all time | **4,322** |
+| Commits, all repositories | **4,209** (2,054 in 2026) |
+| Contributions, all time | **4,354** |
 | Pull requests merged | **8** (31 to repositories I don't own) |
-| Repositories | **87** (37 private) |
-| Repositories touched in 2026 | **66** |
+| Repositories | **88** (37 private) |
+| Repositories touched in 2026 | **67** |
 | Organizations | **3** (5 further repositories, 237 commits) |
 
 **Organizations I build in**
@@ -41,16 +41,16 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | Language | Share | |
 |---|---|---|
-| TypeScript | 32.0% | `█████████████` |
-| Python | 27.0% | `███████████` |
-| MQL5 | 16.0% | `██████` |
-| PHP | 5.2% | `██` |
-| Solidity | 3.6% | `█` |
-| Jupyter Notebook | 3.0% | `█` |
-| TeX | 2.5% | `█` |
-| HTML | 2.5% | `█` |
+| Python | 40.5% | `████████████████` |
+| TypeScript | 26.1% | `██████████` |
+| MQL5 | 13.0% | `█████` |
+| PHP | 4.3% | `██` |
+| Solidity | 2.9% | `█` |
+| Jupyter Notebook | 2.4% | `█` |
+| TeX | 2.1% | `█` |
+| HTML | 2.1% | `█` |
 
-<sub>Generated 31 Aug 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
+<sub>Generated 07 Sep 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
 
 <!-- stats:end -->
 
