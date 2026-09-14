@@ -12,18 +12,18 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | | |
 |---|---|
-| Commits, all repositories | **4,209** (2,054 in 2026) |
-| Contributions, all time | **4,354** |
+| Commits, all repositories | **4,334** (2,179 in 2026) |
+| Contributions, all time | **4,479** |
 | Pull requests merged | **8** (31 to repositories I don't own) |
 | Repositories | **88** (37 private) |
 | Repositories touched in 2026 | **67** |
-| Organizations | **3** (5 further repositories, 237 commits) |
+| Organizations | **3** (5 further repositories, 242 commits) |
 
 **Organizations I build in**
 
 | Organization | Repositories | Commits | Work |
 |---|---|---|---|
-| AITB | 3 private | 201 | Crypto trading automation |
+| AITB | 3 private | 206 | Crypto trading automation |
 | Healthcare client | 1 private | 28 | Clinic web platform |
 | Trading client | 1 private | 8 | MQL5 strategy development |
 
@@ -31,8 +31,8 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | Area | Share | Visibility |
 |---|---|---|
-| Trading systems | 86% | public + private |
-| Tooling / other | 10% | public + private |
+| Trading systems | 84% | public + private |
+| Tooling / other | 12% | public + private |
 | Networking / infra | 2% | public + private |
 | Blockchain | 2% | public + private |
 | Healthcare | 1% | public + private |
@@ -41,16 +41,16 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | Language | Share | |
 |---|---|---|
-| Python | 40.5% | `████████████████` |
-| TypeScript | 26.1% | `██████████` |
-| MQL5 | 13.0% | `█████` |
-| PHP | 4.3% | `██` |
+| Python | 40.7% | `████████████████` |
+| TypeScript | 25.8% | `██████████` |
+| MQL5 | 12.9% | `█████` |
+| PHP | 4.2% | `██` |
 | Solidity | 2.9% | `█` |
 | Jupyter Notebook | 2.4% | `█` |
 | TeX | 2.1% | `█` |
-| HTML | 2.1% | `█` |
+| HTML | 2.0% | `█` |
 
-<sub>Generated 07 Sep 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
+<sub>Generated 14 Sep 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
 
 <!-- stats:end -->
 
