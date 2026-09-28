@@ -44,6 +44,19 @@ ORGS = json.loads(os.environ.get("ORG_LABELS") or "{}")
 # Languages that are noise in a summary (config, generated, or vendored).
 LANG_SKIP = {"Batchfile", "Makefile", "Roff", "Procfile", "Smarty"}
 
+# Badge colors for the headline strip: teal marks the primary signal (commit
+# volume), amber marks PRs (a different kind of contribution than raw
+# commits), slate is the baseline reading for everything else.
+BADGE_ACCENT, BADGE_HIGHLIGHT, BADGE_NEUTRAL = "12a594", "b8842f", "414a5a"
+
+
+def badge(label, message, color):
+    q = urllib.parse.urlencode(
+        {"label": label, "message": message, "color": color, "style": "flat-square"},
+        quote_via=urllib.parse.quote,
+    )
+    return f"![{label}](https://img.shields.io/static/v1?{q})"
+
 
 def request(url, method="GET", data=None, accept="application/vnd.github+json"):
     token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
@@ -189,7 +202,16 @@ def render(d):
         domain_private[dom][1 if rec["private"] else 0] = True
     commit_total = sum(domains.values()) or 1
 
-    lines = [START, ""]
+    badges = [
+        badge("Commits", f"{d['totals']['commits']:,}", BADGE_ACCENT),
+        badge("Contributions", f"{d['totals']['contributions']:,}", BADGE_NEUTRAL),
+        badge("PRs merged", str(d["merged_prs"]), BADGE_HIGHLIGHT),
+        badge("Repositories", str(len(owned)), BADGE_NEUTRAL),
+    ]
+    if orgs:
+        badges.append(badge("Organizations", str(len(orgs)), BADGE_NEUTRAL))
+
+    lines = [START, "", " ".join(badges), ""]
     lines.append("| | |")
     lines.append("|---|---|")
     lines.append(f"| Commits, all repositories | **{d['totals']['commits']:,}** ({d['years'][active_year]['commits']:,} in {active_year}) |")
@@ -206,7 +228,7 @@ def render(d):
         lines.append("**Organizations I build in**")
         lines.append("")
         lines.append("| Organization | Repositories | Commits | Work |")
-        lines.append("|---|---|---|---|")
+        lines.append("|---|---|--:|---|")
         for label, n_repos, n_private, commits, focus in orgs:
             count = f"{n_repos} private" if n_private == n_repos else f"{n_repos} ({n_private} private)"
             lines.append(f"| {label} | {count} | {commits:,} | {focus} |")
@@ -214,7 +236,7 @@ def render(d):
     lines.append("**Where the commits go**")
     lines.append("")
     lines.append("| Area | Share | Visibility |")
-    lines.append("|---|---|---|")
+    lines.append("|---|--:|---|")
     for dom, n in domains.most_common():
         pub, priv = domain_private[dom]
         vis = "public + private" if (pub and priv) else ("private" if priv else "public")
@@ -223,7 +245,7 @@ def render(d):
     lines.append("**Languages by volume** (source bytes across public and private repositories)")
     lines.append("")
     lines.append("| Language | Share | |")
-    lines.append("|---|---|---|")
+    lines.append("|---|--:|---|")
     for lang, pct in top_langs:
         # One cell per 2.5%, so the smallest listed language still shows something.
         bar = "█" * max(1, round(pct / 2.5))

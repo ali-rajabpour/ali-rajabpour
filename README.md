@@ -2,13 +2,15 @@
 
 Medical doctor. I write software for clinical work, automated trading, and the infrastructure both of them run on. Most of it ships privately, so the numbers below cover public and private repositories alike.
 
-[rajabpour.com](https://rajabpour.com) · [LinkedIn](https://www.linkedin.com/in/alirajabpour/) · [ali.poursanati@gmail.com](mailto:ali.poursanati@gmail.com) · [Telegram](https://t.me/ali_rps) · [X](https://twitter.com/A_Rajabpour)
+[![Website](https://img.shields.io/static/v1?label=Website&message=rajabpour.com&color=12161c&style=flat-square)](https://rajabpour.com) [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&color=12161c&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirajabpour/) [![Email](https://img.shields.io/static/v1?label=Email&message=ali.poursanati%40gmail.com&color=12161c&style=flat-square&logo=gmail&logoColor=white)](mailto:ali.poursanati@gmail.com) [![Telegram](https://img.shields.io/static/v1?message=Telegram&color=12161c&style=flat-square&logo=telegram&logoColor=white)](https://t.me/ali_rps) [![X](https://img.shields.io/static/v1?message=X&color=12161c&style=flat-square&logo=x&logoColor=white)](https://twitter.com/A_Rajabpour)
 
 ---
 
 ### Activity
 
 <!-- stats:start -->
+
+![Commits](https://img.shields.io/static/v1?label=Commits&message=5%2C287&color=12a594&style=flat-square) ![Contributions](https://img.shields.io/static/v1?label=Contributions&message=5%2C428&color=414a5a&style=flat-square) ![PRs merged](https://img.shields.io/static/v1?label=PRs%20merged&message=6&color=b8842f&style=flat-square) ![Repositories](https://img.shields.io/static/v1?label=Repositories&message=88&color=414a5a&style=flat-square) ![Organizations](https://img.shields.io/static/v1?label=Organizations&message=3&color=414a5a&style=flat-square)
 
 | | |
 |---|---|
@@ -23,7 +25,7 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 **Organizations I build in**
 
 | Organization | Repositories | Commits | Work |
-|---|---|---|---|
+|---|---|--:|---|
 | AITB | 3 private | 207 | Crypto trading automation |
 | Healthcare client | 1 private | 35 | Clinic web platform |
 | Trading client | 1 private | 8 | MQL5 strategy development |
@@ -31,7 +33,7 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 **Where the commits go**
 
 | Area | Share | Visibility |
-|---|---|---|
+|---|--:|---|
 | Trading systems | 52% | public + private |
 | Healthcare | 31% | public + private |
 | Tooling / other | 14% | public + private |
@@ -41,7 +43,7 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 **Languages by volume** (source bytes across public and private repositories)
 
 | Language | Share | |
-|---|---|---|
+|---|--:|---|
 | Python | 45.2% | `██████████████████` |
 | TypeScript | 23.6% | `█████████` |
 | MQL5 | 11.7% | `█████` |
@@ -200,7 +202,13 @@ Forex SuperIchi, a multi-timeframe Ichimoku expert advisor, and FCR, a First Can
 
 ### Tools
 
-Python, TypeScript, Rust, MQL5, Solidity, PHP, Shell · FastAPI, Flask, Next.js, React, Vue, Laravel · PostgreSQL, MySQL, SQLite, Redis, Kafka · Docker, Traefik, Nginx, Dokploy, Tailscale, Debian/Ubuntu · pandas, NumPy, Jupyter, SPSS
+| | |
+|---|---|
+| Languages | Python, TypeScript, Rust, MQL5, Solidity, PHP, Shell |
+| Frameworks | FastAPI, Flask, Next.js, React, Vue, Laravel |
+| Data | PostgreSQL, MySQL, SQLite, Redis, Kafka |
+| Infrastructure | Docker, Traefik, Nginx, Dokploy, Tailscale, Debian/Ubuntu |
+| Data science | pandas, NumPy, Jupyter, SPSS |
 
 ---
 
