@@ -12,18 +12,18 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | | |
 |---|---|
-| Commits, all repositories | **5,043** (2,888 in 2026) |
-| Contributions, all time | **5,189** |
+| Commits, all repositories | **5,178** (3,023 in 2026) |
+| Contributions, all time | **5,322** |
 | Pull requests merged | **8** (31 to repositories I don't own) |
 | Repositories | **89** (37 private) |
-| Repositories touched in 2026 | **67** |
-| Organizations | **3** (5 further repositories, 249 commits) |
+| Repositories touched in 2026 | **69** |
+| Organizations | **3** (5 further repositories, 250 commits) |
 
 **Organizations I build in**
 
 | Organization | Repositories | Commits | Work |
 |---|---|---|---|
-| AITB | 3 private | 206 | Crypto trading automation |
+| AITB | 3 private | 207 | Crypto trading automation |
 | Healthcare client | 1 private | 35 | Clinic web platform |
 | Trading client | 1 private | 8 | MQL5 strategy development |
 
@@ -31,26 +31,26 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | Area | Share | Visibility |
 |---|---|---|
-| Trading systems | 86% | public + private |
-| Tooling / other | 11% | public + private |
+| Trading systems | 53% | public + private |
+| Healthcare | 32% | public + private |
+| Tooling / other | 12% | public + private |
 | Networking / infra | 2% | public + private |
 | Blockchain | 1% | public + private |
-| Healthcare | 0% | public |
 
 **Languages by volume** (source bytes across public and private repositories)
 
 | Language | Share | |
 |---|---|---|
-| Python | 40.5% | `████████████████` |
-| TypeScript | 25.7% | `██████████` |
-| MQL5 | 12.8% | `█████` |
-| PHP | 4.3% | `██` |
-| Solidity | 2.9% | `█` |
-| Jupyter Notebook | 2.4% | `█` |
-| Shell | 2.1% | `█` |
-| TeX | 2.0% | `█` |
+| Python | 45.2% | `██████████████████` |
+| TypeScript | 23.6% | `█████████` |
+| MQL5 | 11.7% | `█████` |
+| PHP | 4.0% | `██` |
+| Solidity | 2.6% | `█` |
+| Jupyter Notebook | 2.2% | `█` |
+| Shell | 2.0% | `█` |
+| TeX | 1.9% | `█` |
 
-<sub>Generated 21 Sep 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
+<sub>Generated 28 Sep 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
 
 <!-- stats:end -->
 
