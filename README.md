@@ -64,7 +64,7 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 | [metatrader-mcp](https://github.com/ali-rajabpour/metatrader-mcp) | MCP server for MetaTrader 5: real chart screenshots and live market data from a running terminal | Python, MT5 |
 | [PDF-LLMizer](https://github.com/ali-rajabpour/PDF-LLMizer) | Splits PDFs along their bookmark tree and converts each piece to structured markdown for LLM ingestion | Python |
 | [gost-dpi-evader](https://github.com/ali-rajabpour/gost-dpi-evader) | DPI-resistant HTTPS proxy on GOST + Traefik; one domain and a few variables to deploy | Shell, Docker |
-| [dokploy-9router-private](https://github.com/ali-rajabpour/dokploy-9router-private) | 9Router behind a Tailscale sidecar, reachable only from the tailnet — no public exposure | Shell, Tailscale |
+| [9router-gated](https://github.com/ali-rajabpour/9router-gated) | Hardened 9Router deployment for Dokploy with three private access modes — Tailscale, SSH tunnel, or self-hosted Headscale — no public exposure | Shell, Tailscale |
 | [Personal-DoH](https://github.com/ali-rajabpour/Personal-DoH) | Self-hosted DNS-over-HTTPS resolver | Shell |
 | [NameMimicker](https://github.com/ali-rajabpour/NameMimicker) | Generates Unicode lookalike strings for homoglyph and phishing-surface research | Python |
 | [FileFlow](https://github.com/ali-rajabpour/FileFlow) | Maps file-to-file import dependencies in a Python project and writes a diagram plus markdown report, standard library only | Python |
@@ -88,8 +88,8 @@ Client and production systems. Named here because the work is real; code stays c
 
 | Project | What it does | Stack |
 |---|---|---|
-| OmanEMR | Electronic medical record system for clinical use in Oman. Largest single codebase I maintain. | TypeScript, Node |
-| MedLitHarvester | Retrieves, downloads and segments full-text medical literature for systematic review work | Python |
+| Phoenix-EMR | Electronic medical record system for clinical use in Oman. Largest single codebase I maintain. | TypeScript, Node |
+| MedResearchHub | Retrieves, downloads and segments full-text medical literature for systematic review work | Python |
 
 **Trading systems**
 
