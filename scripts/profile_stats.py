@@ -166,6 +166,7 @@ def collect():
 def render(d):
     owned = [r for r in d["repos"] if r["owner"]["login"] == USER and not r["fork"]]
     private = sum(1 for r in owned if r["private"])
+    forks = sum(1 for r in d["repos"] if r["owner"]["login"] == USER and r["fork"])
     active_year = max(d["years"])
     lang_total = sum(d["langs"].values()) or 1
     top_langs = [(k, v / lang_total * 100) for k, v in d["langs"].most_common(8)]
@@ -195,6 +196,7 @@ def render(d):
     lines.append(f"| Contributions, all time | **{d['totals']['contributions']:,}** |")
     lines.append(f"| Pull requests merged | **{d['merged_prs']}** ({d['external_prs']} to repositories I don't own) |")
     lines.append(f"| Repositories | **{len(owned)}** ({private} private) |")
+    lines.append(f"| Forks maintained | **{forks}** |")
     lines.append(f"| Repositories touched in {active_year} | **{d['years'][active_year]['repos']}** |")
     if orgs:
         org_repos = sum(o[1] for o in orgs)
