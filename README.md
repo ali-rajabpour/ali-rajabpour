@@ -10,12 +10,12 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 <!-- stats:start -->
 
-![Commits](https://img.shields.io/static/v1?label=Commits&message=5%2C287&color=12a594&style=flat-square) ![Contributions](https://img.shields.io/static/v1?label=Contributions&message=5%2C428&color=414a5a&style=flat-square) ![PRs merged](https://img.shields.io/static/v1?label=PRs%20merged&message=6&color=b8842f&style=flat-square) ![Repositories](https://img.shields.io/static/v1?label=Repositories&message=88&color=414a5a&style=flat-square) ![Organizations](https://img.shields.io/static/v1?label=Organizations&message=3&color=414a5a&style=flat-square)
+![Commits](https://img.shields.io/static/v1?label=Commits&message=5%2C288&color=12a594&style=flat-square) ![Contributions](https://img.shields.io/static/v1?label=Contributions&message=5%2C429&color=414a5a&style=flat-square) ![PRs merged](https://img.shields.io/static/v1?label=PRs%20merged&message=6&color=b8842f&style=flat-square) ![Repositories](https://img.shields.io/static/v1?label=Repositories&message=88&color=414a5a&style=flat-square) ![Organizations](https://img.shields.io/static/v1?label=Organizations&message=3&color=414a5a&style=flat-square)
 
 | | |
 |---|---|
-| Commits, all repositories | **5,287** (3,137 in 2026) |
-| Contributions, all time | **5,428** |
+| Commits, all repositories | **5,288** (3,138 in 2026) |
+| Contributions, all time | **5,429** |
 | Pull requests merged | **6** (31 to repositories I don't own) |
 | Repositories | **88** (37 private) |
 | Forks maintained | **16** |
