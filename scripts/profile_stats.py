@@ -27,7 +27,7 @@ FIRST_YEAR = 2019
 # Client repos are named under NDA, so their prefixes live in the DOMAIN_MAP
 # secret instead of here. Without it they just fall through to OTHER.
 DOMAINS = [
-    ("Healthcare", ("OmanEMR", "MedLitHarvester", "ResearchDataCleaner")),
+    ("Healthcare", ("Phoenix-EMR", "OmanEMR", "MedResearchHub", "MedLitHarvester", "ResearchDataCleaner")),
     ("Trading systems", ("Phoenix", "phoenix", "ARPS", "MT5", "freqtrade", "metatrader", "tradingview", "Leverage", "TradingView")),
     ("Networking / infra", ("telemt", "gost-", "dokploy-", "Personal-DoH", "s-ui", "ServerMGMT", "Amnezia")),
     ("Blockchain", ("TRC20", "BEP20", "QURC", "MultiBC")),
