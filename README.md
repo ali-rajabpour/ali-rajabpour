@@ -12,10 +12,11 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | | |
 |---|---|
-| Commits, all repositories | **5,176** (3,026 in 2026) |
-| Contributions, all time | **5,317** |
+| Commits, all repositories | **5,287** (3,137 in 2026) |
+| Contributions, all time | **5,428** |
 | Pull requests merged | **6** (31 to repositories I don't own) |
 | Repositories | **88** (37 private) |
+| Forks maintained | **16** |
 | Repositories touched in 2026 | **69** |
 | Organizations | **3** (5 further repositories, 250 commits) |
 
@@ -31,9 +32,9 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | Area | Share | Visibility |
 |---|---|---|
-| Trading systems | 53% | public + private |
-| Healthcare | 32% | public + private |
-| Tooling / other | 12% | public + private |
+| Trading systems | 52% | public + private |
+| Healthcare | 31% | public + private |
+| Tooling / other | 14% | public + private |
 | Networking / infra | 2% | public + private |
 | Blockchain | 1% | public + private |
 
