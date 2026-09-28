@@ -75,6 +75,9 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 | [Leverage_PosSize_RR_TelegramBot](https://github.com/ali-rajabpour/Leverage_PosSize_RR_TelegramBot) | Telegram bot that sizes a position from account risk, stop distance and target R | Python |
 | [Automated-Traffic-Tickets-Device](https://github.com/ali-rajabpour/Automated-Traffic-Tickets-Device) | Roadside unit that recognises, records and uploads traffic violations | Arduino, Processing |
 | [CIDR-to-IP-List](https://github.com/ali-rajabpour/CIDR-to-IP-List) | Expands CIDR blocks into flat address lists for firewall and routing config | Python |
+| [MonkeyArmy](https://github.com/ali-rajabpour/MonkeyArmy) | Claude Code plugin: an Opus supervisor plans, specifies and reviews while cheap workers (DeepSeek & co. via 9Router) write code in isolated git worktrees, with a review gate and squash merge-back | Python |
+| [PhoenixPatchbay](https://github.com/ali-rajabpour/PhoenixPatchbay) | Runs Claude Code, Codex CLI, Gemini CLI, Antigravity CLI and Grok Build as coding assistants reachable over Telegram, Matrix and Slack — one chat topic is one session | Python |
+| [Leverage-Position-Size-and-RR](https://github.com/ali-rajabpour/Leverage-Position-Size-and-RR) | Calculates leverage, position size and RR from user inputs | Python |
 
 Upstream contributions include a merged performance patch to [telemt](https://github.com/telemt/telemt), a Rust MTProto proxy, cutting per-session allocations on the hot path.
 
@@ -121,6 +124,16 @@ Client and production systems. Named here because the work is real; code stays c
 | TRC20-Token / BEP20-Token-Generator | Contract generators and deployment tooling for TRC20 and BEP20 tokens | Solidity |
 | MultiBC_Faucet | Multi-chain testnet faucet | Solidity, Python |
 | Rajabpour.com | Personal site and writing platform | TypeScript |
+
+**Other**
+
+| Project | What it does | Stack |
+|---|---|---|
+| BUMS-LMS-LCMS | Learning management and content system for Birjand University of Medical Sciences | JavaScript |
+| contabo-kali-gateway | On-demand Kali toolbox behind a VPN egress router — lab traffic through Cloudflare WARP, general traffic through Windscribe, each session network-namespaced | Shell, Python |
+| Instagram_Automation | Finds inactive accounts in a following list from UI screenshots, with an option to auto-unfollow them | Python |
+| Twitter-Automation | Scaffolded, not yet built out | — |
+| ExcaliDraw | Private fork of Excalidraw with custom features | — |
 
 ---
 
