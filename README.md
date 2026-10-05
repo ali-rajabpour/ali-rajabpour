@@ -10,12 +10,12 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 <!-- stats:start -->
 
-![Commits](https://img.shields.io/static/v1?label=Commits&message=5%2C339&color=12a594&style=flat-square) ![Contributions](https://img.shields.io/static/v1?label=Contributions&message=5%2C484&color=414a5a&style=flat-square) ![PRs merged](https://img.shields.io/static/v1?label=PRs%20merged&message=6&color=b8842f&style=flat-square) ![Repositories](https://img.shields.io/static/v1?label=Repositories&message=92&color=414a5a&style=flat-square) ![Organizations](https://img.shields.io/static/v1?label=Organizations&message=3&color=414a5a&style=flat-square)
+![Commits](https://img.shields.io/static/v1?label=Commits&message=5%2C358&color=12a594&style=flat-square) ![Contributions](https://img.shields.io/static/v1?label=Contributions&message=5%2C503&color=414a5a&style=flat-square) ![PRs merged](https://img.shields.io/static/v1?label=PRs%20merged&message=6&color=b8842f&style=flat-square) ![Repositories](https://img.shields.io/static/v1?label=Repositories&message=92&color=414a5a&style=flat-square) ![Organizations](https://img.shields.io/static/v1?label=Organizations&message=3&color=414a5a&style=flat-square)
 
 | | |
 |---|---|
-| Commits, all repositories | **5,339** (3,189 in 2026) |
-| Contributions, all time | **5,484** |
+| Commits, all repositories | **5,358** (3,208 in 2026) |
+| Contributions, all time | **5,503** |
 | Pull requests merged | **6** (31 to repositories I don't own) |
 | Repositories | **92** (39 private) |
 | Forks maintained | **16** |
@@ -34,7 +34,7 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | Area | Share | Visibility |
 |---|--:|---|
-| Trading systems | 52% | public + private |
+| Trading systems | 51% | public + private |
 | Healthcare | 31% | public + private |
 | Tooling / other | 16% | public + private |
 | Blockchain | 1% | public + private |
@@ -44,16 +44,16 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | Language | Share | |
 |---|--:|---|
-| Python | 44.9% | `██████████████████` |
-| TypeScript | 22.8% | `█████████` |
-| MQL5 | 11.3% | `█████` |
+| Python | 46.2% | `██████████████████` |
+| TypeScript | 22.5% | `█████████` |
+| MQL5 | 11.1% | `████` |
 | PHP | 3.8% | `██` |
-| HTML | 3.4% | `█` |
+| HTML | 3.3% | `█` |
 | Solidity | 2.5% | `█` |
 | Shell | 2.1% | `█` |
 | Jupyter Notebook | 2.1% | `█` |
 
-<sub>Generated 04 Oct 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
+<sub>Generated 05 Oct 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
 
 <!-- stats:end -->
 
