@@ -10,12 +10,12 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 <!-- stats:start -->
 
-![Commits](https://img.shields.io/static/v1?label=Commits&message=5%2C358&color=12a594&style=flat-square) ![Contributions](https://img.shields.io/static/v1?label=Contributions&message=5%2C503&color=414a5a&style=flat-square) ![PRs merged](https://img.shields.io/static/v1?label=PRs%20merged&message=6&color=b8842f&style=flat-square) ![Repositories](https://img.shields.io/static/v1?label=Repositories&message=92&color=414a5a&style=flat-square) ![Organizations](https://img.shields.io/static/v1?label=Organizations&message=3&color=414a5a&style=flat-square)
+![Commits](https://img.shields.io/static/v1?label=Commits&message=5%2C373&color=12a594&style=flat-square) ![Contributions](https://img.shields.io/static/v1?label=Contributions&message=5%2C518&color=414a5a&style=flat-square) ![PRs merged](https://img.shields.io/static/v1?label=PRs%20merged&message=6&color=b8842f&style=flat-square) ![Repositories](https://img.shields.io/static/v1?label=Repositories&message=92&color=414a5a&style=flat-square) ![Organizations](https://img.shields.io/static/v1?label=Organizations&message=3&color=414a5a&style=flat-square)
 
 | | |
 |---|---|
-| Commits, all repositories | **5,358** (3,208 in 2026) |
-| Contributions, all time | **5,503** |
+| Commits, all repositories | **5,373** (3,223 in 2026) |
+| Contributions, all time | **5,518** |
 | Pull requests merged | **6** (31 to repositories I don't own) |
 | Repositories | **92** (39 private) |
 | Forks maintained | **16** |
@@ -44,16 +44,16 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | Language | Share | |
 |---|--:|---|
-| Python | 46.2% | `██████████████████` |
-| TypeScript | 22.5% | `█████████` |
-| MQL5 | 11.1% | `████` |
-| PHP | 3.8% | `██` |
+| Python | 46.8% | `███████████████████` |
+| TypeScript | 22.2% | `█████████` |
+| MQL5 | 10.9% | `████` |
+| PHP | 3.7% | `█` |
 | HTML | 3.3% | `█` |
 | Solidity | 2.5% | `█` |
 | Shell | 2.1% | `█` |
-| Jupyter Notebook | 2.1% | `█` |
+| Jupyter Notebook | 2.0% | `█` |
 
-<sub>Generated 06 Oct 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
+<sub>Generated 07 Oct 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
 
 <!-- stats:end -->
 
