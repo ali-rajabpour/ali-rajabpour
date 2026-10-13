@@ -10,12 +10,12 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 <!-- stats:start -->
 
-![Commits](https://img.shields.io/static/v1?label=Commits&message=5%2C419&color=12a594&style=flat-square) ![Contributions](https://img.shields.io/static/v1?label=Contributions&message=5%2C564&color=414a5a&style=flat-square) ![PRs merged](https://img.shields.io/static/v1?label=PRs%20merged&message=6&color=b8842f&style=flat-square) ![Repositories](https://img.shields.io/static/v1?label=Repositories&message=92&color=414a5a&style=flat-square) ![Organizations](https://img.shields.io/static/v1?label=Organizations&message=3&color=414a5a&style=flat-square)
+![Commits](https://img.shields.io/static/v1?label=Commits&message=5%2C574&color=12a594&style=flat-square) ![Contributions](https://img.shields.io/static/v1?label=Contributions&message=5%2C719&color=414a5a&style=flat-square) ![PRs merged](https://img.shields.io/static/v1?label=PRs%20merged&message=6&color=b8842f&style=flat-square) ![Repositories](https://img.shields.io/static/v1?label=Repositories&message=92&color=414a5a&style=flat-square) ![Organizations](https://img.shields.io/static/v1?label=Organizations&message=3&color=414a5a&style=flat-square)
 
 | | |
 |---|---|
-| Commits, all repositories | **5,419** (3,269 in 2026) |
-| Contributions, all time | **5,564** |
+| Commits, all repositories | **5,574** (3,424 in 2026) |
+| Contributions, all time | **5,719** |
 | Pull requests merged | **6** (31 to repositories I don't own) |
 | Repositories | **92** (39 private) |
 | Forks maintained | **16** |
@@ -34,9 +34,9 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | Area | Share | Visibility |
 |---|--:|---|
-| Trading systems | 51% | public + private |
-| Healthcare | 30% | public + private |
-| Tooling / other | 17% | public + private |
+| Trading systems | 50% | public + private |
+| Healthcare | 29% | public + private |
+| Tooling / other | 19% | public + private |
 | Blockchain | 1% | public + private |
 | Networking / infra | 1% | public + private |
 
@@ -44,16 +44,16 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | Language | Share | |
 |---|--:|---|
-| Python | 46.4% | `███████████████████` |
-| TypeScript | 22.4% | `█████████` |
-| MQL5 | 11.0% | `████` |
+| Python | 46.6% | `███████████████████` |
+| TypeScript | 22.3% | `█████████` |
+| MQL5 | 10.9% | `████` |
 | PHP | 3.7% | `█` |
-| HTML | 3.4% | `█` |
-| Solidity | 2.5% | `█` |
+| HTML | 3.3% | `█` |
+| Solidity | 2.4% | `█` |
 | Shell | 2.2% | `█` |
 | Jupyter Notebook | 2.0% | `█` |
 
-<sub>Generated 12 Oct 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
+<sub>Generated 13 Oct 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
 
 <!-- stats:end -->
 
