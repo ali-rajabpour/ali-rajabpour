@@ -10,12 +10,12 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 <!-- stats:start -->
 
-![Commits](https://img.shields.io/static/v1?label=Commits&message=5%2C595&color=12a594&style=flat-square) ![Contributions](https://img.shields.io/static/v1?label=Contributions&message=5%2C740&color=414a5a&style=flat-square) ![PRs merged](https://img.shields.io/static/v1?label=PRs%20merged&message=6&color=b8842f&style=flat-square) ![Repositories](https://img.shields.io/static/v1?label=Repositories&message=92&color=414a5a&style=flat-square) ![Organizations](https://img.shields.io/static/v1?label=Organizations&message=3&color=414a5a&style=flat-square)
+![Commits](https://img.shields.io/static/v1?label=Commits&message=5%2C597&color=12a594&style=flat-square) ![Contributions](https://img.shields.io/static/v1?label=Contributions&message=5%2C742&color=414a5a&style=flat-square) ![PRs merged](https://img.shields.io/static/v1?label=PRs%20merged&message=6&color=b8842f&style=flat-square) ![Repositories](https://img.shields.io/static/v1?label=Repositories&message=92&color=414a5a&style=flat-square) ![Organizations](https://img.shields.io/static/v1?label=Organizations&message=3&color=414a5a&style=flat-square)
 
 | | |
 |---|---|
-| Commits, all repositories | **5,595** (3,445 in 2026) |
-| Contributions, all time | **5,740** |
+| Commits, all repositories | **5,597** (3,447 in 2026) |
+| Contributions, all time | **5,742** |
 | Pull requests merged | **6** (31 to repositories I don't own) |
 | Repositories | **92** (39 private) |
 | Forks maintained | **16** |
@@ -53,7 +53,7 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 | Shell | 2.2% | `█` |
 | Jupyter Notebook | 2.0% | `█` |
 
-<sub>Generated 15 Oct 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
+<sub>Generated 16 Oct 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
 
 <!-- stats:end -->
 
