@@ -44,7 +44,7 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 
 | Language | Share | |
 |---|--:|---|
-| Python | 47.1% | `███████████████████` |
+| Python | 47.2% | `███████████████████` |
 | TypeScript | 21.2% | `████████` |
 | MQL5 | 10.4% | `████` |
 | HTML | 4.4% | `██` |
@@ -53,7 +53,7 @@ Medical doctor. I write software for clinical work, automated trading, and the i
 | Shell | 2.2% | `█` |
 | Jupyter Notebook | 1.9% | `█` |
 
-<sub>Generated 24 Nov 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
+<sub>Generated 25 Nov 2026 by [`scripts/profile_stats.py`](scripts/profile_stats.py). Private repositories are counted, never named beyond the list below.</sub>
 
 <!-- stats:end -->
 
